@@ -16,11 +16,11 @@ app_license = "MIT"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/white_theme/css/white_theme.css"
-app_include_js = "/assets/white_theme/js/help_menu.js"
+app_include_js = "/assets/white_theme/js/desk_toolbar.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/white_theme/css/white_theme.css"
-# web_include_js = "/assets/white_theme/js/white_theme.js"
+# web_include_js = "/assets/white_theme/js/help_menu.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
